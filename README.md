@@ -2,6 +2,10 @@
 
 This repository hosts my design for serverless application.
 
+## Static Content Web Pages
+
+![Static Web](staticweb.png)
+
 ## Web Application
 
 ![Web Application](webapp.png)
