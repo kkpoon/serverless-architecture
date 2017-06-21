@@ -2,13 +2,23 @@
 
 This repository hosts my design for serverless application.
 
-## Static Content Web Pages
+## Web Application
+
+### Static Content Web Pages
 
 ![Static Web](staticweb.png)
 
-## Web Application
+### Web App Shell with API Backend
 
 ![Web Application](webapp.png)
+
+### GitHub Pages
+
+To simplify the architecture, you could use GitHub Pages to host the
+static web content or the app shell. And the deployment process could
+be just a `git push` command.
+
+![GitHub Pages](gh-pages.png)
 
 ## Chat Bot
 
